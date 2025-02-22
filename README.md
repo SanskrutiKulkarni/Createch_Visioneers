@@ -74,7 +74,7 @@ Our solution leverages **cutting-edge AI & ML technologies**:
 Our **multi-layered AI system** ensures accurate risk prediction at every stage of construction.  
 
 📌 **System Architecture Flowchart:**  
-![System Architecture](architecture.png)  
+![System Architecture]([architecture.png](https://github.com/SanskrutiKulkarni/Createch_Visioneers/blob/7618940962236cf8686f21030a9623d471ceabd6/Your%20paragraph%20text.png))  
 
 ---
 
