@@ -81,7 +81,7 @@ Our **multi-layered AI system** ensures accurate risk prediction at every stage 
 ## 🔹 Dashboard Visualization 📊  
 Our **AI-powered dashboard** provides real-time alerts & risk scores:  
 
-![Dashboard Preview](dashboard.png)  
+![Dashboard Preview](https://github.com/SanskrutiKulkarni/Createch_Visioneers/blob/4b0cc6d859b03394b8f7a2858dffae6ec70f2a75/Construction%20Risk%20Monitoring%20Dashboard%20(5)_page-0001.jpg) 
 
 ---
 
